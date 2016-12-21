@@ -1,0 +1,80 @@
+1481529680932	geckodriver	INFO	Listening on 127.0.0.1:10053
+1481529684454	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.40lIE320mEDq
+1481529684480	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481529684794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10063
+1481529692292	Marionette	INFO	Listening on port 10063
+[Child 9092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1481530032231	geckodriver	INFO	Listening on 127.0.0.1:10174
+1481530035389	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.EIZzmqBthdUw
+1481530035420	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481530035694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10182
+1481530044885	Marionette	INFO	Listening on port 10182
+1481530066802	geckodriver	INFO	Listening on 127.0.0.1:10216
+1481530069756	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.gLzl6wQcIovj
+1481530069817	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481530070193	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10229
+1481530078811	Marionette	INFO	Listening on port 10229
+[Child 9260] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481704285188	geckodriver	INFO	Listening on 127.0.0.1:8116
+1481704286533	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.QxDt9lek5CWo
+1481704286559	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1481704286876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8122
+1481704294826	Marionette	INFO	Listening on port 8122
+1481704381342	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481704381366	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481704381405	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+ox.exe
+1481704314139	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8164
+1481704321825	Marionette	INFO	Listening on port 8164
+[Child 2744] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482288370761	geckodriver	INFO	Listening on 127.0.0.1:4201
+1482288371946	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.ZgE4UVMd1ikB
+1482288371973	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1482288372163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:4208
+1482288378248	Marionette	INFO	Listening on port 4208
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+[Child 1924] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 5896] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482288479516	geckodriver	INFO	Listening on 127.0.0.1:4383
+1482288480720	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.Ae6YpNRPk5ks
+1482288480745	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1482288480956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:4391
+1482288487215	Marionette	INFO	Listening on port 4391
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+1482288563925	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482288563981	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482288563998	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 10400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1482288650882	geckodriver	INFO	Listening on 127.0.0.1:4621
+1482288652214	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.Ea4tLV7RY0ne
+1482288652241	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1482288652468	geckodriver::marionette	INFO	Connecting to Marionette on localhost:4627
+1482288658723	Marionette	INFO	Listening on port 4627
+JavaScript error: https://g.alicdn.com/kissy/k/1.4.2/seed-min.js, line 51: TypeError: i is null
+JavaScript error: https://g.alicdn.com/tb/login/0.4.7/weibo/login/login.js, line 1: TypeError: KISSY.add is not a function
+JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3D131656e5c45530e96e86c3a3fbb03e46, line 154: TypeError: S.getScript is not a function
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+1482288951869	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482288951975	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482288952032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10952] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ermission denied to access property "href"
+JavaScript error: https://g.alicdn.com/kissy/k/1.4.2/seed-min.js, line 51: TypeError: i is null
+JavaScript error: https://g.alicdn.com/tb/login/0.4.7/weibo/login/login.js, line 1: TypeError: KISSY.add is not a function
+JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3Dd7a083e4bee7aee99d47c76575acf430, line 154: TypeError: S.getScript is not a function
+JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3Dd7a083e4bee7aee99d47c76575acf430, line 3: TypeError: a.ready is not a function
+JavaScript error: https://g.alicdn.com/kissy/k/1.4.2/seed-min.js, line 51: TypeError: i is null
+JavaScript error: https://g.alicdn.com/tb/login/0.4.7/weibo/login/login.js, line 1: TypeError: KISSY.add is not a function
+JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3Dd7a083e4bee7aee99d47c76575acf430, line 154: TypeError: S.getScript is not a function
+JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3Dd7a083e4bee7aee99d47c76575acf430, line 3: TypeError: a.ready is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
