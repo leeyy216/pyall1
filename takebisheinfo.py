@@ -54,3 +54,4 @@ print (html.decode('utf-8'))
 with open ('platformtable.txt','a') as file:
 	file.write()
 '''
+

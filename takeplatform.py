@@ -20,7 +20,7 @@ s = soup.title
 #print(s.encode('utf-8'))
 #print(type(s))
 print (s)
-'''
+
 
 #20161222-23##################################################################
 #输出登录界面的h5代码
@@ -39,19 +39,19 @@ response = urllib.request.urlopen(url)
 html = response.read()
 
 print (html.decode('utf-8'))
-
+'''
 #20161223###########################################################################
 import bs4
 from bs4 import BeautifulSoup
 import urllib.request
 import selenium
 import time
-#import cookielib
+#import cookielib   ：cookielib为python2中的库
 import http.cookiejar
 import re
 
 url = 'http://172.31.27.22:8088/hbaq/'
-url = 'http://172.31.27.22:8088/hbaq/system/platform/showList.do?csrftoken=E3008A56DF5A4DF3AE17926CC8741F93'
+url = 'http://172.31.27.22:8088/hbaq/system/platform/showList.do?csrftoken=181F62D2C0D54CBF9E65F23F64D444D1'
 cookies = http.cookiejar.CookieJar()
 #postdata = urllib.urlencode({'username':'hb_admin' 'pwd':'xxxxxx'})
 #opener = urllib.request.build_opener(urllib.HTTPCookieProcessor(cookies))
@@ -64,7 +64,7 @@ html = response.read()
 #request = urllib.Request(url)
 #result = opener.open(url)
 print (html.decode('utf-8'))
-
+'''
 #biaotou = soup.select('body th')
 #print(biaotou)
 #登录URL
