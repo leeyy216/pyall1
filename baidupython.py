@@ -28,6 +28,7 @@ soup = BeautifulSoup(urllib.request.urlopen(url).read(),"html5lib")
 #    test.write("%s 在 %s 说： %s" % (username,time,content))
 num = 0
 ar = soup.find("article")
+author = 
 biaoti = ar.find('a',href = urlplus).string
 with open(r'.\test.txt','a') as test:
     test.write("===%s start===%s\ntitle:%s\n"%(sys.argv[0], datetime.now().strftime("%Y-%m-%d %H:%M:%S"), biaoti))

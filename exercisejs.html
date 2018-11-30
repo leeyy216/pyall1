@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="http://code.jquery.com/qunit/qunit-1.11.0.css" />
+        <script src="http://code.jquery.com/qunit/qunit-1.11.0.js"></script>
+
+    </head>
+    <body>
+        <h1>Lee的 Web 页面</h1>
+        <p id="demo">一个段落。</p>
+        <div id="myDIV">一个 DIV。</div>
+
+        <!-- <input id="username" value="username" />
+        <input id="password" value="password" />
+        <button onclick="myFunction()">Try it</button> -->
+
+
+        <h1 id="qunit-header">QUnit test1</h1>
+        <h2 id="qunit-banner"></h2>
+        <ol id="qunit-tests"></ol>
+        
+
+        <script>
+            var testvar = 3.14, teststr = "XiaoLee小李", testbool = false;
+            // function testf(){
+            //     get 
+            // }
+            document.getElementById("demo").innerHTML="exercise";
+            document.getElementById("myDIV").innerHTML="你最近怎么样?";
+            
+            //检查是否是数字
+            function isnum(para){
+                if (typeof para =="number"){
+                    return true;
+                }
+                else{
+                    return false;
+                }
+            }
+            
+            //qunit
+            //测试用例也是javascript函数，用测试断言构造测试用例，测试断言很多，最常用的有：ok(),equals(),same()
+            //列举各种可能的情况，保证每种条件应该符合的逻辑 
+            //ok 最常见用于判断的函数，只能判断true和false 
+            test("test1-isnum", function() {
+                ok(isnum(testvar), "testvar是一个数字");
+                ok(!isnum(teststr), "teststr不是一个数字");
+                ok(false, "world");
+
+                //equals(actual,expected,[message]) 用于相当的判断函数
+                //QUnit.equals has been deprecated since 2009 (e88049a0), use QUnit.equal instead
+                equal(isnum(testvar), true, "testvar是数字");
+                equal(isnum(teststr), false, "teststr不是数字");
+
+                //same()是恒等断言，可以用来判定2个对象是否相等（可以不相同）
+
+            });
+
+            $(document).ready(function(){
+
+                // jQuery methods go here...
+                //#id, .class, 元素名如<p>
+                $("button").click(function(){
+                    $("#test").hide();
+                });
+            });
+        </script>
+
+    </body>
+</html>

@@ -1,2 +1,2 @@
-for i in list 
-yield i
+for testi in list 
+yield testi

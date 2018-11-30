@@ -78,3 +78,133 @@ JavaScript error: https://login.taobao.com/member/login.jhtml?from=wbfast&style=
 ###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
 
 [Child 11384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497251448574	geckodriver	INFO	Listening on 127.0.0.1:10853
+1497251450749	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.UZnQIgeaLSAD
+1497251450816	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497251451286	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10861
+1497251615222	geckodriver	INFO	Listening on 127.0.0.1:11019
+1497251617208	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.ouKLRJdMQBSB
+1497251617271	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497251617625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11025
+1497251647152	Marionette	INFO	Listening on port 11025
+[GPU 13256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497251677068	Marionette	INFO	New connections will no longer be accepted
+1497256241510	geckodriver	INFO	Listening on 127.0.0.1:14487
+1497256243492	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.GGGm7I4hwx9o
+1497256243567	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497256244026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:14494
+1497256278329	Marionette	INFO	Listening on port 14494
+[GPU 13896] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13896] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497256369395	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 11324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1497256381661	geckodriver	INFO	Listening on 127.0.0.1:14678
+1497256383620	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.A3Ild5Vvrqa8
+1497256383686	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497256383981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:14684
+1497256410566	Marionette	INFO	Listening on port 14684
+[Child 13584] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13584] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1497509495609	geckodriver	INFO	Listening on 127.0.0.1:6409
+1497509497697	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.NbOgj2Azt7gr
+1497509497757	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497509498337	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6415
+1497511080892	geckodriver	INFO	Listening on 127.0.0.1:7836
+1497511082592	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.PwmSRmtwLNMo
+1497511082663	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497511083397	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7844
+1497511131458	Marionette	INFO	Listening on port 7844
+[GPU 12940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497511135960	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GPU 12940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 12600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 13160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497511259669	Marionette	INFO	Listening on port 8041
+1497511266675	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GPU 13160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:616:3
+sendError@chrome://marionette/content/listener.js:650:3
+dispatch/</<@chrome://marionette/content/listener.js:379:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:920:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+[GPU 13160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497511896482	geckodriver	INFO	Listening on 127.0.0.1:8830
+1497511898828	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.iEBZyJV1wjil
+1497511898907	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497511899662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8836
+1497511939552	Marionette	INFO	Listening on port 8836
+1497511944745	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GPU 12644] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ (x86)\Mozilla Firefox\firefox.exe
+1497512649723	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9469
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 11788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497512692254	Marionette	INFO	Listening on port 9469
+1497512696573	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GPU 11788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1497514862086	geckodriver	INFO	Listening on 127.0.0.1:10758
+1497514864046	mozprofile::profile	INFO	Using profile path C:\Users\new\AppData\Local\Temp\rust_mozprofile.4SP5X0lzZhxK
+1497514864360	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497514865437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10764
+[Child 10544] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497514908620	Marionette	INFO	Listening on port 10764
+1497514922062	Marionette	WARN	Using deprecated data structure for setting timeouts
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
